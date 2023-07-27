@@ -16,6 +16,7 @@ function CharityInfo() {
           <img
             style={{ width: "100%", position: "relative", height: "500px" }}
             src="https://images.pexels.com/photos/6994855/pexels-photo-6994855.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            alt="charity img"
           />
         </CharityImg>
         <CharityText>

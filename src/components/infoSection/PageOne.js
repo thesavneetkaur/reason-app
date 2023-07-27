@@ -1,5 +1,4 @@
 import React from "react";
-import InfoSection from "./InfoSection";
 
 function PageOne() {
   return (

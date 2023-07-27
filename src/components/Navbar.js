@@ -2,13 +2,11 @@ import React, { useState } from "react";
 import {
   MobileIcon,
   Nav,
-  NavDiv,
   NavIcon,
   NavItem,
   NavLinks,
   NavLogo,
   NavMenu,
-  NavSection,
   NavbarContainer,
 } from "../style";
 import { FaTimes, FaBars } from "react-icons/fa";
